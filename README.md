@@ -1,2 +1,3 @@
-# Latihan Pertama
-## Menggunakan Python
+# Latihan Pertama 
+### Perkenalan dengan singkat
+#### Menggunakan Python
