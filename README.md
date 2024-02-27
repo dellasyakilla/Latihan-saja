@@ -1,0 +1,2 @@
+# Latihan Pertama
+## Menggunakan Python
